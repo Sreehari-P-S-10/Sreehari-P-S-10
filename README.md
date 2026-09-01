@@ -45,11 +45,17 @@
 ### 🌟 Flagship Builds
 
 **🎫 QFlow — Smart Queue & Token Management Engine**
-*Internship project — private*
+*Internship project — Exalture Software Labs*
 
-Thread-safe queue and token management engine developed at **Exalture Software Labs** as part of a 4-member engineering team. Supports walk-in and scheduled bookings, automated state transitions, wait-time estimation, and real-time queue tracking.
+Thread-safe queue and token management engine developed as part of a 4-member engineering team. Supports walk-in and scheduled bookings, automated state transitions, wait-time estimation, and real-time queue tracking.
 
 `Node.js` `PostgreSQL` `Redis` `Socket.IO` `Docker`
+
+**Repositories**
+
+* [Backend](https://github.com/Sreehari-P-S-10/qflow-backend)
+* [Web](https://github.com/Sreehari-P-S-10/qflow-web)
+* [Mobile](https://github.com/Sreehari-P-S-10/qflow-mobile)
 
 ---
 
@@ -104,6 +110,7 @@ Monitors **pH, temperature, TDS, and ORP**, with low-power data logging, SD-card
 ### 🧩 Other Builds
 
 **📋 [Campus Complaint Management System](https://github.com/Sreehari-P-S-10/campus-complaint-system)**
+
 Maintenance complaint platform with JWT authentication, bcrypt security, role-based access, file attachments, dashboard analytics, and a normalized MySQL database.
 
 `Node.js` `MySQL` `JWT` `HTML/CSS`
@@ -111,14 +118,14 @@ Maintenance complaint platform with JWT authentication, bcrypt security, role-ba
 ---
 
 **🗳️ [Simple Voting](https://github.com/Sreehari-P-S-10/simplevoting)**
+
 Minimal blockchain voting implementation using a Solidity smart contract.
 
 `Solidity` `Blockchain`
 
 ---
 
-**📱 SmartUSSD**
-*Private project*
+**📱 [SmartUSSD](https://github.com/Sreehari-P-S-10/SmartUSSD)**
 
 Offline-first Flutter banking assistant supporting USSD/IVR banking workflows, carrier detection, biometric authentication, secure PIN storage, SQLite persistence, and PDF statement generation.
 
@@ -141,22 +148,12 @@ Recognized for **Aaroha**, an AI-integrated recovery-support application.
 
 ## 💼 Experience
 
-**Product Intern — Exalture Software Labs**
-*May 2026 – June 2026*
+**Product Intern (Full Stack & Mobile App Development) — Exalture Software Labs Pvt. Ltd.**
+*May 2026 – June 2026 · Ernakulam, Kerala*
 
-Worked on full-stack and mobile product development, including:
-
-* Thread-safe token and queue management using Node.js and PostgreSQL locks
-* AI-powered recruitment workflows using Google GenAI
-* React dashboards and Flutter mobile components
-* Real-time synchronization using Socket.IO
-* Backend infrastructure using Docker and Redis
-* Production deployment and issue resolution
+* Collaborated within a **4-member engineering team** to build a thread-safe token generation and queue management engine using **Node.js and PostgreSQL locks**, supporting walk-in and scheduled bookings with automated state transitions and wait-time estimation.
+* Contributed to **AI-powered recruitment workflows** by integrating **Google GenAI** for candidate scoring, ranking, and interview scheduling.
+* Built responsive **React** web features and **Flutter** mobile components, including receptionist dashboards and real-time queue tracking synchronized via **Socket.IO**.
+* Configured deployment and infrastructure for backend services using **Docker, Redis, and Vercel**, and helped resolve production issues.
 
 ---
-
-<div align="center">
-
-**Profile Views** · <img src="https://komarev.com/ghpvc/?username=Sreehari-P-S-10&color=1e3c72"/>
-
-</div>
