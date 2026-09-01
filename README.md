@@ -1,80 +1,118 @@
 <div align="center">
 
-# Sreehari P S
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=SREEHARI%20P%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20IoT&descAlignY=55&descSize=20" width="100%"/>
 
-### Backend-leaning Full-Stack Developer · CSE Undergrad
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Node.js+%2B+PostgreSQL+backend+developer;Currently+building+QFlow+%40+Exalture+Software+Labs;React+%2B+Flutter+on+the+side" alt="Typing SVG" />
+**Node.js/PostgreSQL backend, React and Flutter on the front. Currently building queue systems for a living.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sreehari-p-s-)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pssreehari10@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sreehari-P-S-10)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sreehari-p-s-)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sreehari-P-S-10)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pssreehari10@gmail.com)
 
 </div>
 
 ---
 
-## About
-
-Third-year CSE undergrad at Government Engineering College, Thrissur (CGPA 8.26/10). Currently a Product Intern at Exalture Software Labs, working on QFlow — a thread-safe token/queue management engine on Node.js and PostgreSQL. Outside that, I build full-stack web and Flutter mobile apps, usually with a real database and API behind them.
-
-- 🎓 B.Tech CSE, GEC Thrissur (2023–2027)
-- 💼 Product Intern, Exalture Software Labs — Node.js, Express, PostgreSQL, React, Flutter
-- 📍 Kerala, India
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
+`JavaScript` `TypeScript` `Java` `Dart` `C` `SQL`
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Backend & Data**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+**Backend & Databases**
+`Node.js` `Express.js` `Prisma` `PostgreSQL` `MySQL` `Redis`
 
 **Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+`React.js` `Flutter` `HTML/CSS`
 
 **Tools & Infra**
+`Docker` `Git` `Vercel` `Render` `Postman` `ESP32`
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+**AI Integration**
+`Groq API` `Gemini API` `RAG Architectures`
 
-## Projects
+---
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[CyberRaksha](https://github.com/Sreehari-P-S-10/CyberRaksha)** | Interactive cybersecurity awareness platform simulating phishing, ransomware, and social-engineering attacks. JWT auth, role-based access, three-tier architecture. | React, Express.js, PostgreSQL |
-| **[Campus Complaint Management System](https://github.com/Sreehari-P-S-10/campus-complaint-system)** | Maintenance-complaint tracker for a college campus with file attachments, status tracking, and student/admin dashboards. | Node.js, Express, MySQL, Bootstrap |
-| **Aaroha** ([source](https://github.com/Sreehari-P-S-10/hackquest_hackathon)) | Addiction-recovery support app — mood tracking, AI companion chat (Groq/LLaMA 3.3), crisis-intervention flow, OpenStreetMap resource mapping. 2nd Prize, Hack@Arch 4.0. | Flutter, Riverpod, Hive |
-| **[Simple Voting](https://github.com/Sreehari-P-S-10/simplevoting)** | Minimal voting system implemented as a smart contract. | Solidity |
-| **Prawn Sentinel** *(not on public GitHub)* | IoT water-quality monitor for prawn farming under a K-DISC / Vypin Block Panchayath initiative — deep-sleep data logging, React/Firebase dashboard. | ESP32, React, Firebase |
-| **LexCheck** *(not on public GitHub)* | RAG-based app translating Indian law into plain-language analysis, grounded in a vector DB to reduce hallucination. Top 16 nationally, BuildX'26. | Flutter, Node.js/FastAPI, RAG |
+## 🚀 Projects
 
-## Achievements
+### 🌟 Flagship Builds
 
-- 🏆 Top 16 nationally — BuildX'26 Buildathon (Resourcio Community), IIT Kharagpur finale
-- 🥈 2nd Prize — Hack@Arch 4.0 HackQuest
-- 📜 NPTEL Introduction to IoT — 91%, top 2% nationally
+**🎫 QFlow — Smart Queue & Token Management Engine** *(internship project, not public)*
+Thread-safe token generation and queue engine for walk-in and scheduled bookings, with automated state transitions and wait-time estimation. Built with a 4-person team at Exalture.
 
-## GitHub Stats
+`Node.js` `PostgreSQL` `Redis` `Socket.IO` `Docker`
+
+---
+
+**⚖️ LexCheck — Legal Awareness App** *(team project — repo owned by teammate)*
+RAG-based app translating Indian law (BNS, IT Act, JJ Act) into plain-language, scenario-grounded explanations, aimed at reducing hallucination in legal answers. Contributed the Node.js/FastAPI backend and vector DB integration. Shortlisted top 16 nationally at BuildX'26.
+
+`Flutter` `Node.js/FastAPI` `RAG` `Vector DB`
+
+[View repository on GitHub](https://github.com/abhinav-e-p-b/LexCheck)
+
+---
+
+**🌿 Aaroha — Recovery Support App**
+De-addiction support app with an AI companion chat (Groq LLaMA 3.3), mood tracking, crisis-intervention flow, and OpenStreetMap-based mapping of recovery resources. 2nd Prize, Hack@Arch 4.0.
+
+`Flutter` `Riverpod` `Hive` `Groq LLaMA`
+
+[View repository on GitHub](https://github.com/Sreehari-P-S-10/hackquest_hackathon)
+
+---
+
+**🛡️ CyberRaksha — Cybersecurity Awareness Platform**
+Interactive platform simulating phishing, ransomware, and social-engineering attacks. JWT auth, role-based access, three-tier architecture.
+
+`React` `Express.js` `PostgreSQL`
+
+[View repository on GitHub](https://github.com/Sreehari-P-S-10/CyberRaksha)
+
+---
+
+### 💧 IoT Projects
+
+**Prawn Sentinel — Water Quality Monitor** *(not public)*
+Real-time monitoring of pH, temperature, TDS, and ORP for prawn farming, under a K-DISC / Vypin Block Panchayath initiative. Deep-sleep data logging, SD card storage, React/Firebase dashboard.
+
+`ESP32` `React` `Firebase`
+
+---
+
+### 🧩 Other Builds
+
+**📋 [Campus Complaint Management System](https://github.com/Sreehari-P-S-10/campus-complaint-system)** — Maintenance-complaint tracker with JWT auth, bcrypt, role-based dashboards, normalized MySQL schema
+**🗳️ [Simple Voting](https://github.com/Sreehari-P-S-10/simplevoting)** — Minimal voting system as a Solidity smart contract
+**📱 SmartUSSD** *(not public)* — Offline banking assistant using USSD/IVR, biometric auth, offline-first SQLite
+
+---
+
+## 🏆 Achievements
+
+🏆 **Top 16 nationally** — BuildX'26 Buildathon (Resourcio Community), IIT Kharagpur finale
+🥈 **2nd Prize** — Hack@Arch 4.0, National Level Hackathon (HackQuest)
+📜 **NPTEL** — Introduction to IoT, Elite Certification, 91% (top 2% nationally)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sreehari-P-S-10&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreehari-P-S-10&hide_border=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sreehari-P-S-10&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreehari-P-S-10&layout=compact&theme=default&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreehari-P-S-10&theme=default&hide_border=true" width="60%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**Profile Views** · <img src="https://komarev.com/ghpvc/?username=Sreehari-P-S-10&color=1e3c72" />
+
 </div>
