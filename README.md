@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=SREEHARI%20P%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20AI%20%E2%80%A2%20IoT&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=SREEHARI%20P%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20AI&descAlignY=55&descSize=20" width="100%"/>
 
 <br/>
 
@@ -152,20 +152,6 @@ Worked on full-stack and mobile product development, including:
 * Real-time synchronization using Socket.IO
 * Backend infrastructure using Docker and Redis
 * Production deployment and issue resolution
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sreehari-P-S-10&show_icons=true&theme=default&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreehari-P-S-10&layout=compact&theme=default&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreehari-P-S-10&theme=default&hide_border=true" width="60%"/>
-
-</div>
 
 ---
 
